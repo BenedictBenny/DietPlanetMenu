@@ -160,23 +160,30 @@ Menu
   margin-bottom: 4rem;
   display: flex;
   /* justify-content: center; */
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
 .filter-btn {
   background: transparent;
   border-color: transparent;
-  font-size: 1rem;
+  font-size: 1.1rem;
   text-transform: capitalize;
-  margin: 0 0.5rem;
+  margin: 0 0.1rem;
   letter-spacing: 1px;
-  padding: 0.375rem 0.75rem;
+  padding: 0.475rem 0.75rem;
   color: #20876f;
   cursor: pointer;
   transition: var(--transition);
   border-radius: var(--radius);
+  justify-content: center;
+  min-width: 7em;
 }
 .filter-btn:hover {
   background: #20876f;
   color: var(--clr-white);
+  min-width: 7.5em;
+  justify-content: center;
 }
 .section-center {
   width: 90vw;
@@ -193,8 +200,8 @@ Menu
 }
 .photo {
   object-fit: cover;
-  height: 200px;
-  width: 100%;
+  height: 18em;
+  width: 18em;
   border: 0.25rem solid #20876f;
   border-radius: var(--radius);
   display: block;
@@ -223,14 +230,20 @@ Menu
   }
   .photo {
     height: 175px;
+    width: 100%;
+  }
+  .section-center {
+    justify-items: unset;
   }
 }
 @media screen and (min-width: 1200px) {
   .section-center {
     width: 95vw;
     grid-template-columns: 1fr 1fr;
+    justify-items: unset;
   }
   .photo {
     height: 150px;
+    width: 100%;
   }
 }
