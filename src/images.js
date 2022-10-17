@@ -11,6 +11,7 @@ const images = {
     ChocolateRiceCake: require("./Images/ChocolateRiceCake.jpg"),
     CornSalad: require("./Images/CornSalad.jpg"),
     DarkOatsYogurt: require("./Images/DarkOatsYogurt.jpg"),
+    DietPlanetLogo: require("./Images/DietPlanetLogo.png"),
     FruitBowlHoney: require("./Images/FruitBowlHoney.jpg"),
     FruitBowlSmoothie: require("./Images/FruitBowlSmoothie.jpg"),
     FruitSalad1: require("./Images/FruitSalad1.jpg"),
