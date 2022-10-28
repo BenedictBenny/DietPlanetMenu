@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6db8d7f754bb8c2af8ca83170693902",
+    "revision": "33828d8f0b2f311cf5cad70ebfb9c0f2",
     "url": "/DietPlanetMenu/index.html"
   },
   {
-    "revision": "0dafdd5181f3285b8bb7",
-    "url": "/DietPlanetMenu/static/css/main.01c2a192.chunk.css"
+    "revision": "d2b56ff49e74ec82057f",
+    "url": "/DietPlanetMenu/static/css/main.ff12915e.chunk.css"
   },
   {
     "revision": "d9477fddb5fe81a6c7ef",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DietPlanetMenu/static/js/2.5c485663.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0dafdd5181f3285b8bb7",
-    "url": "/DietPlanetMenu/static/js/main.0aa6156e.chunk.js"
+    "revision": "d2b56ff49e74ec82057f",
+    "url": "/DietPlanetMenu/static/js/main.fac88ba9.chunk.js"
   },
   {
     "revision": "a50858d37442f95ea8ae",

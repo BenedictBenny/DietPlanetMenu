@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DietPlanetMenu/static/css/main.01c2a192.chunk.css",
-    "main.js": "/DietPlanetMenu/static/js/main.0aa6156e.chunk.js",
-    "main.js.map": "/DietPlanetMenu/static/js/main.0aa6156e.chunk.js.map",
+    "main.css": "/DietPlanetMenu/static/css/main.ff12915e.chunk.css",
+    "main.js": "/DietPlanetMenu/static/js/main.fac88ba9.chunk.js",
+    "main.js.map": "/DietPlanetMenu/static/js/main.fac88ba9.chunk.js.map",
     "runtime-main.js": "/DietPlanetMenu/static/js/runtime-main.abb42621.js",
     "runtime-main.js.map": "/DietPlanetMenu/static/js/runtime-main.abb42621.js.map",
     "static/js/2.5c485663.chunk.js": "/DietPlanetMenu/static/js/2.5c485663.chunk.js",
     "static/js/2.5c485663.chunk.js.map": "/DietPlanetMenu/static/js/2.5c485663.chunk.js.map",
     "index.html": "/DietPlanetMenu/index.html",
-    "precache-manifest.1dfa98bea8bb1b27dbcf595f9d45a6dc.js": "/DietPlanetMenu/precache-manifest.1dfa98bea8bb1b27dbcf595f9d45a6dc.js",
+    "precache-manifest.9ae70f89326f4ad2842f7ad569c62361.js": "/DietPlanetMenu/precache-manifest.9ae70f89326f4ad2842f7ad569c62361.js",
     "service-worker.js": "/DietPlanetMenu/service-worker.js",
-    "static/css/main.01c2a192.chunk.css.map": "/DietPlanetMenu/static/css/main.01c2a192.chunk.css.map",
+    "static/css/main.ff12915e.chunk.css.map": "/DietPlanetMenu/static/css/main.ff12915e.chunk.css.map",
     "static/js/2.5c485663.chunk.js.LICENSE.txt": "/DietPlanetMenu/static/js/2.5c485663.chunk.js.LICENSE.txt",
     "static/media/BananaNutsYogurt.jpg": "/DietPlanetMenu/static/media/BananaNutsYogurt.bca47b03.jpg",
     "static/media/BananaPancake.jpg": "/DietPlanetMenu/static/media/BananaPancake.495f9457.jpg",
@@ -75,7 +75,7 @@
   "entrypoints": [
     "static/js/runtime-main.abb42621.js",
     "static/js/2.5c485663.chunk.js",
-    "static/css/main.01c2a192.chunk.css",
-    "static/js/main.0aa6156e.chunk.js"
+    "static/css/main.ff12915e.chunk.css",
+    "static/js/main.fac88ba9.chunk.js"
   ]
 }

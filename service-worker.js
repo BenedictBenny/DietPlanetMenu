@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DietPlanetMenu/precache-manifest.1dfa98bea8bb1b27dbcf595f9d45a6dc.js"
+  "/DietPlanetMenu/precache-manifest.9ae70f89326f4ad2842f7ad569c62361.js"
 );
 
 self.addEventListener('message', (event) => {
