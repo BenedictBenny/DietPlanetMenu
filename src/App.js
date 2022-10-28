@@ -21,7 +21,7 @@ function App() {
   return (
     <main>
       <section className="menu section">
-        <div>
+        <div className="logo-section">
           <img className="logo" src={images.DietPlanetLogo} alt=""></img>
         </div>
         <div className="title">
